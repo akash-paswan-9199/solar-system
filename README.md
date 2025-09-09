@@ -23,7 +23,7 @@ This project offers a visually stunning and scientifically accurate representati
 ---
 
 ## 🌐 Live Demo :
-[🔗 SolarView (Coming Soon)]()
+[🔗 SolarView ](https://akash-paswan-9199.github.io/solar-system/)
 
 ---
 
